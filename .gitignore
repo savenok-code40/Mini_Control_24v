@@ -1,0 +1,10 @@
+# Временные файлы и бэкапы из вашего скриншота
+.history/
+Mini_Control_24v-backups/
+*.lck
+
+# Стандартные временные файлы KiCad (рекомендуется добавить)
+*-backups/
+*.bck
+*.kicad_prl
+*.fp-info-cache
