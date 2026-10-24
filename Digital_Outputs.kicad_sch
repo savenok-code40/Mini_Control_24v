@@ -1275,16 +1275,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 74.93) (xy 134.62 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d59d260-05e9-42be-97ea-200818df9536")
-	)
-	(wire
-		(pts
 			(xy 163.83 68.58) (xy 189.23 68.58)
 		)
 		(stroke
@@ -1295,13 +1285,13 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 86.36) (xy 177.8 86.36)
+			(xy 129.54 74.93) (xy 134.62 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "32c7e974-1b77-410d-9fbc-641f654a48bb")
+		(uuid "2ae60d9e-0518-4ef1-abaa-be78299ec395")
 	)
 	(wire
 		(pts
@@ -1311,7 +1301,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "363f9bd7-e1fb-4cb1-888c-8d74ef18db01")
+		(uuid "30aaa1b4-a199-445c-8418-ed153e4b8c68")
+	)
+	(wire
+		(pts
+			(xy 166.37 86.36) (xy 177.8 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32c7e974-1b77-410d-9fbc-641f654a48bb")
 	)
 	(wire
 		(pts
@@ -1504,7 +1504,7 @@
 		(uuid "07e2bc67-c7b8-4c06-835d-17efc956a486")
 	)
 	(label "K1_A2"
-		(at 134.62 74.93 0)
+		(at 134.62 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1524,7 +1524,7 @@
 		(uuid "9e913c07-ea83-4861-abfc-9b28a58a6870")
 	)
 	(label "K2_A2"
-		(at 134.62 77.47 0)
+		(at 134.62 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)

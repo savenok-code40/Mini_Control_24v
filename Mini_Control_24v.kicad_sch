@@ -4811,7 +4811,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 63.5) (xy 186.69 63.5)
+			(xy 194.31 67.31) (xy 186.69 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4928,16 +4928,6 @@
 			(type default)
 		)
 		(uuid "6a53b282-de60-485d-94dd-9adbcb5d4525")
-	)
-	(wire
-		(pts
-			(xy 194.31 67.31) (xy 194.31 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7139aee8-e2fb-4152-838b-fc4a9846b9a2")
 	)
 	(wire
 		(pts
@@ -5603,7 +5593,7 @@
 		(uuid "05b4527e-6df9-4347-b3d0-4c25025a099a")
 	)
 	(label "+24V"
-		(at 186.69 63.5 0)
+		(at 186.69 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7491,7 +7481,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal"
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal"
 			(at 233.68 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -8418,7 +8408,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal"
+		(property "Footprint" "Connector_Phoenix_MSTB:PhoenixContact_MSTBA_2,5_3-G-5,08_1x03_P5.08mm_Horizontal"
 			(at 233.68 62.23 0)
 			(hide yes)
 			(show_name no)
